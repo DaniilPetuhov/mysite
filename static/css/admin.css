@@ -1,0 +1,15 @@
+#header, 
+.module caption, .inline-group h2 {
+    background-color: rgb(115, 44, 228);
+    color: rgb(250, 250, 250);
+}
+
+#branding h1, #branding h1 a:link, #branding h1 a:visited {
+    color: rgb(250, 250, 250);
+}
+
+
+
+.content h1{
+    color: rgb(255, 255, 255);
+}
